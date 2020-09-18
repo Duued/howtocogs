@@ -1,5 +1,5 @@
 # howtocogs
-Tells you how to use cogs in discord.py`
+Tells you how to use cogs in discord.py
 
 
 Explains how to use cogs
