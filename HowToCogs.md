@@ -46,7 +46,8 @@ class Moderation(commands.Cog):
 ```
 
 After you have done that step, you can start coding!
-Unlike in the main script, all of your commands need to be indented (tab), and then they need to have ```@commands.command()```
+Unlike in the main script, all of your commands will need to be indented (tab), and then ```@commands.command()```.
+
 You also need to use ```self.bot``` instead of just ```bot``` for functions.
 
 So this is going to be my example command in the cog (moderation.py):
